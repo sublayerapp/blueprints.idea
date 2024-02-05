@@ -26,3 +26,9 @@ server for indexing.
 Type out a description of the code you need to write, highlight the text, right
 click and choose `Generate Blueprint Variant` from the context menu to replace
 the description with code generated based off your stored blueprints.
+
+## Community
+
+Like what you see, or looking for more people working on the future of
+programming with LLMs? Come join us in the [Promptable Architecture
+Discord](https://discord.gg/sjTJszPwXt)
